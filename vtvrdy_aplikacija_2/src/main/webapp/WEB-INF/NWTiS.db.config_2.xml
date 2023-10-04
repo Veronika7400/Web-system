@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE properties SYSTEM "http://java.sun.com/dtd/properties.dtd">
+<properties>
+<comment>NWTIS konfiguracija</comment>
+<entry key="OpenSkyNetwork.korisnik">vtvrdy</entry>
+<entry key="OpenSkyNetwork.lozinka">openskypass123</entry>
+<entry key="Adresa">200.20.0.1</entry>
+<entry key="MreznaVrata">8019</entry>
+</properties>

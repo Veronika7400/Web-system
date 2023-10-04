@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE properties SYSTEM "http://java.sun.com/dtd/properties.dtd">
+<properties>
+<comment>NWTIS konfiguracija</comment>
+<entry key="ciklus.trajanje">180</entry>
+<entry key="preuzimanje.od">01.12.2022.</entry>
+<entry key="preuzimanje.do">13.01.2023.</entry>
+<entry key="OpenSkyNetwork.korisnik">vtvrdy</entry>
+<entry key="OpenSkyNetwork.lozinka">openskypass123</entry>
+<entry key="OpenWeatherMap.apikey">a1762494eb5a5552e5da01598c526af0</entry>
+<entry key="LocationIQ.apikey">pk.350e7a9baeecfc74915db163d22d08ef</entry>
+<entry key="OSKlijentBP.korisnik">vtvrdy@student.foi.hr</entry>
+<entry key="OSKlijentBP.lozinka">vtvrdy</entry>
+</properties>
